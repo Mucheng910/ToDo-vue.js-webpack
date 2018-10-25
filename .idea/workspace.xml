@@ -3,12 +3,136 @@
   <component name="ChangeListManager">
     <list default="true" id="a7206bc9-2cc0-46aa-9f4a-7465a298eb38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bg-pir.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bg-pir.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/ExtractTextPluginCompilation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/ExtractTextPluginCompilation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/ExtractedModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/ExtractedModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/.tonic_example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/dist/ajv.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/dist/ajv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/dist/ajv.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/dist/nodent.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/dist/regenerator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/$data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/ajv.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/ajv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/_rules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/equal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/error_classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/resolve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/rules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/schema_obj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/ucs2length.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/compile/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/_limit.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/_limitItems.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/_limitLength.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/_limitProperties.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/allOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/anyOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/coerce.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/const.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/contains.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/custom.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/defaults.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/definitions.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/dependencies.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/enum.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/errors.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/format.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/items.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/missing.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/multipleOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/not.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/oneOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/pattern.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/properties.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/propertyNames.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/ref.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/required.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/uniqueItems.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dot/validate.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/_limit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/_limitItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/_limitLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/_limitProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/allOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/anyOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/contains.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/dependencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/multipleOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/not.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/oneOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/pattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/propertyNames.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/required.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/uniqueItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/dotjs/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/keyword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/patternGroups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/refs/$data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/refs/json-schema-draft-04.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/refs/json-schema-draft-06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/lib/refs/json-schema-v5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/scripts/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/scripts/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/scripts/compile-dots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/scripts/info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/scripts/prepare-tests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/ajv/scripts/travis-gh-pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/fast-deep-equal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/fast-deep-equal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/fast-deep-equal/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/fast-deep-equal/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/fast-deep-equal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/spec/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/spec/fixtures/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/json-schema-traverse/spec/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/dist/ValidationError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/dist/cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/dist/validateOptions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/schema-utils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/schema/loader.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/schema/plugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss-loader/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo/tabs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo/todo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo/todo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,8 +154,9 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,7 +188,7 @@
         <counts>
           <entry key="babelrc" value="38" />
           <entry key="css" value="28" />
-          <entry key="js" value="1523" />
+          <entry key="js" value="1994" />
           <entry key="json" value="165" />
           <entry key="jsx" value="118" />
           <entry key="styl" value="189" />
@@ -75,7 +200,7 @@
           <entry key="CSS" value="28" />
           <entry key="JSON" value="203" />
           <entry key="JSX Harmony" value="118" />
-          <entry key="JavaScript" value="1523" />
+          <entry key="JavaScript" value="1994" />
           <entry key="Stylus" value="189" />
           <entry key="Vue.js" value="2692" />
         </counts>
@@ -91,9 +216,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
               <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="e#298#327#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -110,8 +232,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-392">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+            <state relative-caret-position="306">
+              <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -119,8 +241,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="504">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -128,8 +250,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/postcss.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="168">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -146,7 +268,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="420">
               <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="e#147#185#0" expanded="true" />
@@ -158,7 +280,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/todo/item.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
+            <state relative-caret-position="476">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
@@ -198,7 +320,6 @@
         <option value="$PROJECT_DIR$/src/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/assets/styles/test.stylus.styl" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/postcss.config.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/todo/footer.jsx" />
@@ -209,6 +330,7 @@
         <option value="$PROJECT_DIR$/src/todo/item.vue" />
         <option value="$PROJECT_DIR$/src/todo/tabs.vue" />
         <option value="$PROJECT_DIR$/src/todo/todo.vue" />
+        <option value="$PROJECT_DIR$/postcss.config.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
@@ -291,6 +413,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.8.0" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,16 +455,18 @@
       <workItem from="1540289863860" duration="5828000" />
       <workItem from="1540309102106" duration="2045000" />
       <workItem from="1540367696297" duration="14086000" />
+      <workItem from="1540469905180" duration="4295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44457000" />
+    <option name="totallyTimeSpent" value="48752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16025303" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16025303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -353,7 +478,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30501089" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30501089" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -447,30 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/todo/header.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/todo/item.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#147#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/todo/tabs.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -478,13 +579,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/todo/todo.vue">
+    <entry file="file://$PROJECT_DIR$/src/app.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="420">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="e#298#327#0" expanded="true" />
+            <element signature="e#147#185#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/todo/item.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/todo/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -495,24 +617,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/todo/todo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="392">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/postcss.config.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="504">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-392">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        <state relative-caret-position="306">
+          <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
         </state>
       </provider>
     </entry>
