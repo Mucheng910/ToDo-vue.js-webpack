@@ -7,7 +7,9 @@ const webpack =require('webpack');
 
 const UglifyJsPlugin=require('uglifyjs-webpack-plugin');
 const OptimizeCSSPlugin=require('optimize-css-assets-webpack-plugin');
-const MiniCSSExtractPlugin =require('mini-css-extract-plugin');
+const MiniCssExtractPlugin =require('mini-css-extract-plugin');
+
+
 const isDev= process.env.NODE_ENV === 'development';
 
 
@@ -70,7 +72,7 @@ const config={
             }
         }),
         new HTMLPlugin({
-            title: "Mytodo",
+            title: "mytodo",
             filename:"index.html",
             favicon:''
         })
@@ -111,15 +113,15 @@ if(isDev){
     )
 } else {
     config.output.filename='[name].[chunkhash:8].js';
-    let ExtractLoader={
-        loader:MiniCSSExtractPlugin.loader,
+    let extractLoader={
+        loader:MiniCssExtractPlugin.loader,
         options:{}
     };
     config.module.rules.push(
         {
             test: /\.styl/,
             use: [
-                ExtractLoader,
+                extractLoader,
                 'css-loader',
                 {
                     loader: 'postcss-loader',
@@ -132,52 +134,52 @@ if(isDev){
         });
 
     config.plugins.push(
-        new MiniCSSExtractPlugin({
+        new MiniCssExtractPlugin({
             filename:"[name].[chunkhask:8].css"
         })
     );
-    // config.optimization={
-    //     splitChunks:{
-    //         chunk:'async',
-    //         minSize:30000,
-    //         maxAsyncRequests:5,
-    //         maxInitialRequests:3,
-    //         name:true,
-    //         cacheGroup:{
-    //             default:{
-    //                 priority:-20,
-    //                 reuseExistingChunk:true,
-    //             },
-    //             vendors:{
-    //                 name:'vendors',
-    //                 test:/[\\/]node_nomdles[\\/]/,
-    //                 priority: -10,
-    //                 chunks:"all"
-    //             },
-    //
-    //             echarts:{
-    //                 name:'echarts',
-    //                 chunks:'all',
-    //                 priority:20,
-    //                 test:function (module) {
-    //                     var context =module.context;
-    //                     return context&&(context.indexOf('echartd')>=0
-    //                         ||context.indexOf('zrender')>=0)
-    //                 }
-    //             }
-    //         }
-    //     }
 
-    //     ,runtimeChunk:{name:"manifest"}
-    //     ,minimize:[
-    //         new UglifyJsPlugin({
-    //             cache: true,
-    //             parallel: true,
-    //             sourceMap: false
-    //         }),
-    //         new OptimizeCSSPlugin({})
-    //     ]
-    // }
+    optimization={
+        splitChunks:{
+            chunk:'async',
+            minSize:30000,
+            maxAsyncRequests:5,
+            maxInitialRequests:3,
+            name:true,
+            cacheGroup:{
+                default:{
+                    priority:-20,
+                    reuseExistingChunk:true,
+                },
+                vendors:{
+                    name:'vendors',
+                    test:/[\\/]node_nomdles[\\/]/,
+                    priority: -10,
+                    chunks:"all"
+                },
+
+                echarts:{
+                    name:'echarts',
+                    chunks:'all',
+                    priority:20,
+                    test:function (module) {
+                        var context =module.context;
+                        return context&&(context.indexOf('echartd')>=0||context.indexOf('zrender')>=0)
+                    }
+                }
+            }
+        }
+
+        ,runtimeChunk:{name:"manifest"}
+        ,minimizer:[
+            new UglifyJsPlugin({
+                cache: true,
+                parallel: true,
+                sourceMap: false
+            }),
+            new OptimizeCSSPlugin({})
+        ]
+    }
 }
 module.exports=config;
 
